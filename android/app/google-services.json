@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372826354764",
+    "project_id": "second-fire-app-ec478",
+    "storage_bucket": "second-fire-app-ec478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372826354764:android:be65df3d91a716ec7df0e9",
+        "android_client_info": {
+          "package_name": "com.example.second_fire_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0IhEdWI5B5V4DsassuVCJBr7zGWKhZOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
